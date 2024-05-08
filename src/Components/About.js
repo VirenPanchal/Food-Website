@@ -10,7 +10,7 @@ const About = () => {
           <div className="col-lg-8  my-2 p-2">
             <h2 className="text-bold">
               Driving the force of
-              <span className="text-danger">assortement</span>
+              <span className="text-danger"> Assortement</span>
             </h2>
             <p className="text-wrap">
               For pver a decades now,we have been empowering our customers in

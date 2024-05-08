@@ -16,7 +16,7 @@ const Footer = () => {
 
             <div className="d-flex">
               <FaRegCopyright className="copyright text-white my-1" />
-              <p className="text-white my-1">2023 Bundi Technologies pvt Ltd</p>
+              <p className="text-white my-1">Viren Food Company @2024 </p>
             </div>
           </div>
 

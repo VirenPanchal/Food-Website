@@ -58,7 +58,7 @@ const CategoryProduct = () => {
     <>
      <div className='container-fluid  my-2 p-3'>
          <div className='row d-flex flex-column'>
-          <h1 className='text-bold text-center'>What's on your Mood ? </h1>
+          <h1 className='text-bold text-center'> Today's Special 🤤 </h1>
          <Slider {...settings}>
 
               {
